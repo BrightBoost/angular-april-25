@@ -8,6 +8,10 @@
    - Go to [StackBlitz](https://stackblitz.com/).
    - Click on "Start a New Workspace" and select Angular.
    - This will create a new Angular project with a default "Hello World" template.
+   - OR: install Angular locally `npm install -g @angular/cli`
+   - Navigate to the correct folder via the command line and create a project: `ng new demo-name-first-project`
+   - Run project: `cd  demo-name-first-project` & `ng serve -o`
+   - Open in VS code: `code .`
 
 2. **Modify HTML:**
    - In the `app` folder, locate and open the `app.component.html` file.
